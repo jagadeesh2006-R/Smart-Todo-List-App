@@ -41,4 +41,4 @@ Smart-Todo-List-App/
 
 ## Author
 
-Jagadeesh Rallapalli
+Jagadeeswar Rallapalli
