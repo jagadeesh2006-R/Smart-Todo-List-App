@@ -42,3 +42,7 @@ Smart-Todo-List-App/
 ## Author
 
 Jagadeeswar Rallapalli
+
+##  ⚙️ Live Demo:
+
+https://smart-todo-list.streamlit.app
